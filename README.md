@@ -1,5 +1,8 @@
 # AIT-WalletGuardian
-https://aitrailblazer.github.io/AIT-WalletGuardian/
+
+![AIT-WalletGuardian ](img/AIT-WalletGuardian.png)
+
+![AIT-WalletGuardian Interface ](img/01.png)
 
 AIT-WalletGuardian is a Vue.js-based application focused on integrating User-Controlled Wallets functionality. This guide provides step-by-step instructions for setting up and developing the application.
 
